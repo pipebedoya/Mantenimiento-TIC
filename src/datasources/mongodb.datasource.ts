@@ -4,7 +4,7 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'mongodb',
   connector: 'mongodb',
-  url: 'mongodb+srv://gestion_pedido:gestionpedido2022@clustergestionpedidos.dlimuau.mongodb.net/EmpresaDB?retryWrites=true&w=majority',
+  url: '',
   host: '',
   port: 0,
   user: '',
